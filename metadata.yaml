@@ -1,0 +1,43 @@
+_repo: The-Creature-from-Cleveland-Depths_23164
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leiber, Fritz
+    alias: Leiber, Fritz Reuter
+    birthdate: 1910
+    deathdate: 1992
+    gutenberg_agent_id: '25421'
+    url: http://www.gutenberg.org/2009/agents/25421
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
+description: 'Collected in this volume are three of Fritz Leiber''s works: the short
+  novel "The creature from Cleveland depths" (originally published in "Galaxy" magazine
+  in 1962); the humorous "Bread overhead" (originally published in "Galaxy" magazine
+  in 1958); and the short novel "No great magic" (originally published in "Galaxy"
+  magazine in 1963). "No great magic" is part of Leiber''s Change war series.'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Creature from Cleveland Depths
+url: http://www.gutenberg.org/ebooks/23164
